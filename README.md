@@ -4,7 +4,7 @@
 - 👨‍💻 I'm a Passionate full-stack developer
 - 💼 Currently open to networking and seeking my first job in software engineering. Any advice or recommendations would be greatly appreciated!
 - 📫 Reach me at timdean29@gmail.com
-- 📄 Check out my [resume](https://docs.google.com/document/d/1MS_K-Ead2jcw-TG3Yg9GPnyi-aac15e1-FOI5Uer5jY/edit?usp=sharing) and Linkedin <a href="www.linkedin.com/in/timothy-p-dean/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timothy-p-dean/" height="30" width="40" /></a>
+- 📄 Check out my [resume](https://docs.google.com/document/d/1MS_K-Ead2jcw-TG3Yg9GPnyi-aac15e1-FOI5Uer5jY/edit?usp=sharing) and Linkedin <a href="https://www.linkedin.com/in/timothy-p-dean/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/timothy-p-dean/](https://www.linkedin.com/in/timothy-p-dean/)" height="30" width="40" /></a>
 
 ### About Me
 - 📚 Currently diving deep into Java development
