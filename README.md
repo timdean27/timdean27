@@ -1,5 +1,5 @@
 
-## Hi there! 👋 I'm Timothy Dean
+## Hi There! 👋 I'm Timothy Dean
 
 - 👨‍💻 I'm a Passionate full-stack developer
 - 💼 Currently open to networking and seeking my first job in software engineering. Any advice or recommendations would be greatly appreciated!
