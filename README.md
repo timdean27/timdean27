@@ -4,8 +4,8 @@
 - 👨‍💻 I'm a Passionate full-stack developer
 - 💼 Currently open to networking and seeking my first job in software engineering. Any advice or recommendations would be greatly appreciated!
 - 📫 Reach me at timdean29@gmail.com
-- 📄 Check out my <a href="https://docs.google.com/document/d/1MS_K-Ead2jcw-TG3Yg9GPnyi-aac15e1-FOI5Uer5jY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> and LinkedIn <a href="https://www.linkedin.com/in/timothy-p-dean/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-
+- 📄 Check out my <a href="https://docs.google.com/document/d/1MS_K-Ead2jcw-TG3Yg9GPnyi-aac15e1-FOI5Uer5jY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume :scroll:</a> and LinkedIn <a href="https://www.linkedin.com/in/timothy-p-dean/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+s
 ### About Me
 - 📚 Currently diving deep into Java development
 - 🔭 Currently working on YouMap, a social media platform for sharing and displaying images globally
