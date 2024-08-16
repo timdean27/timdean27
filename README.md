@@ -14,7 +14,7 @@
 ### Skills
 
 #### Languages
-- Python, JavaScript, HTML, CSS, SQL, JSON, TypeScript, Java
+- Python, JavaScript, HTML, CSS, SQL, JSON, TypeScript,
 
 #### Databases
 - PostgreSQL, MongoDB, MySQL
@@ -23,7 +23,7 @@
 - React, Django, Express, Spring Boot
 
 #### Libraries & Tools
-- Firebase, Node.js, GitHub, Google APIs, jQuery, Bootstrap, Postman, Slack, Zoom, VS Code, NumPy, Pandas, AWS, Git, Jupyter Notebook , Docker
+- AWS, Playwright, Postman
 
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
