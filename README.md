@@ -20,8 +20,8 @@
 - PostgreSQL, MongoDB, MySQL
 
 #### Frameworks
-- React, Django, Express, Spring Boot
-
+- React, Django, Express
+- 
 #### Libraries & Tools
 - AWS, Playwright, Postman
 
