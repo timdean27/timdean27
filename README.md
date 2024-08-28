@@ -21,7 +21,7 @@
 
 #### Frameworks
 - React, Django, Express
-- 
+  
 #### Libraries & Tools
 - AWS, Playwright, Postman
 
