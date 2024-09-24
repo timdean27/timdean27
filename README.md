@@ -9,7 +9,7 @@
 ### About Me
 - 📚 Currently diving deep into API testing and managment with Django
 - 🔭 Currently working on YouMap, a social media platform for sharing and displaying images globally
-- 💬 Ask me about React.js, JavaScript, Python, and my fascination with marine life 🦑
+- 💬 Ask me about Python, Django, and anyhting about marine life 🦑
 
 ### Skills
 
